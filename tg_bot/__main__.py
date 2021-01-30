@@ -20,20 +20,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-
-*Thank God I'M Up, @bughunter0 work asleep to keep me up*
-
-
-Use /add to add filter in chat
-/filter will not work for me..
-
-I'm a filter adder bot , use me to add filters to your group keeping the members in touch when you are afk,
-Consider joining on @bughunterbots for further updates . Type /help for options
-
- എന്നെ ഉപയോഗിക്കേണ്ടത് എങ്ങനെ ആണെന്നുള്ളതിൽ എന്തേലും സംശയം ഉണ്ടെങ്കിൽ /help
-
-എന്നെ നിർമിച്ചത് [bughunter0](tg://user?id=778307700) ആണ് .
-
+Sorry.. This Bot Can Only Be Used in Movie Club Group!...
 
 """
 
